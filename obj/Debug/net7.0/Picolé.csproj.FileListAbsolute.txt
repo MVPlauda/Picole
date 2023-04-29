@@ -1,0 +1,15 @@
+C:\Users\plaud\Desktop\Picolé\obj\Debug\net7.0\Picolé.csproj.AssemblyReference.cache
+C:\Users\plaud\Desktop\Picolé\obj\Debug\net7.0\Picolé.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\plaud\Desktop\Picolé\obj\Debug\net7.0\Picolé.AssemblyInfoInputs.cache
+C:\Users\plaud\Desktop\Picolé\obj\Debug\net7.0\Picolé.AssemblyInfo.cs
+C:\Users\plaud\Desktop\Picolé\obj\Debug\net7.0\Picolé.csproj.CoreCompileInputs.cache
+C:\Users\plaud\Desktop\Picolé\bin\Debug\net7.0\Picolé.exe
+C:\Users\plaud\Desktop\Picolé\bin\Debug\net7.0\Picolé.deps.json
+C:\Users\plaud\Desktop\Picolé\bin\Debug\net7.0\Picolé.runtimeconfig.json
+C:\Users\plaud\Desktop\Picolé\bin\Debug\net7.0\Picolé.dll
+C:\Users\plaud\Desktop\Picolé\bin\Debug\net7.0\Picolé.pdb
+C:\Users\plaud\Desktop\Picolé\obj\Debug\net7.0\Picolé.dll
+C:\Users\plaud\Desktop\Picolé\obj\Debug\net7.0\refint\Picolé.dll
+C:\Users\plaud\Desktop\Picolé\obj\Debug\net7.0\Picolé.pdb
+C:\Users\plaud\Desktop\Picolé\obj\Debug\net7.0\Picolé.genruntimeconfig.cache
+C:\Users\plaud\Desktop\Picolé\obj\Debug\net7.0\ref\Picolé.dll
